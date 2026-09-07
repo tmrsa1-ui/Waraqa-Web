@@ -1,16 +1,9 @@
-# ورقة — لوحة الويب
+# ورقة — لوحة اختبار عامة
 
-تطبيق محلي أولًا. البيانات في `localStorage` تحت المفتاح `waraqa-v1`.
+رابط الاختبار على نفس نطاق GitHub Pages لمدخل:
 
-## روابط الاختبار
+https://tmrsa1-ui.github.io/waraqa/
 
-- GitHub Pages: https://tmrsa1-ui.github.io/waraqa/
-- هذا المستودع: جاهز لـ Cloudflare Pages (ملف `wrangler.toml`)
+النواة الكاملة تبقى في المستودع الخاص `tmrsa1-ui/Waraqa-Code`.
 
-## نشر Cloudflare Pages (مجاني)
-
-1. افتح https://dash.cloudflare.com وادخل أو أنشئ حسابًا مجانيًا.
-2. Workers & Pages → Create → Pages → Import an existing Git repository.
-3. اختر `tmrsa1-ui/Waraqa-Web`.
-4. Production branch: `main` · Build command: فارغ · Output directory: `/`.
-5. الرابط يصبح: `https://waraqa.pages.dev`
+جذر مدخل لا يُمس: https://tmrsa1-ui.github.io/
