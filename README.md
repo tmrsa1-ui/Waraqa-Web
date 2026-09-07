@@ -1,9 +1,12 @@
-# ورقة — لوحة اختبار عامة
+# ورقة — لوحة الويب
 
-رابط الاختبار على نفس نطاق GitHub Pages لمدخل:
+تطبيق محلي أولًا. البيانات في `localStorage` تحت `waraqa-v1`.
 
-https://tmrsa1-ui.github.io/waraqa/
+## روابط
 
-النواة الكاملة تبقى في المستودع الخاص `tmrsa1-ui/Waraqa-Code`.
+- GitHub Pages: https://tmrsa1-ui.github.io/waraqa/
+- هذا المستودع: جاهز لـ Cloudflare Pages (`wrangler.toml`)
 
-جذر مدخل لا يُمس: https://tmrsa1-ui.github.io/
+## قيد
+
+لوحة تجريب. ليست حزمة تجارية. النواة في `Waraqa-Code`.
