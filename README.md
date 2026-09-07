@@ -1,2 +1,5 @@
-# Waraqa-Web
-Waraqa Web public Pages build | ورقة: public GitHub Pages host for the exam workbench.
+# ورقة — Waraqa Web
+
+الرابط: https://tmrsa1-ui.github.io/Waraqa-Web/
+
+لوحة عمل محلية لإنشاء اختبار عربي وتصدير Word.
