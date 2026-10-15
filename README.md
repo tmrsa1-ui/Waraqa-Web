@@ -6,8 +6,14 @@
 
 <p>
   <a href="https://tmrsa1-ui.github.io/waraqa/"><img src="https://img.shields.io/badge/%D8%AC%D8%B1%D9%91%D8%A8%20%D8%A7%D9%84%D8%A2%D9%86-Live%20Demo-0b7285?style=for-the-badge" alt="جرّب الآن"></a>
+  <a href="https://github.com/tmrsa1-ui/Waraqa-Web/actions/workflows/web-face.yml"><img src="https://github.com/tmrsa1-ui/Waraqa-Web/actions/workflows/web-face.yml/badge.svg?branch=main" alt="CI"></a>
   <img src="https://img.shields.io/badge/%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85%D8%AD%D9%84%D9%8A%D8%A9-2e7d32?style=flat-square" alt="بيانات محلية">
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="MIT">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/waraqa.png" alt="الصفحة العامة لورقة" width="760">
+  <img src="docs/screenshots/mobile.png" alt="ورقة على الجوال" width="220">
 </p>
 
 ## ✨ لمن؟
